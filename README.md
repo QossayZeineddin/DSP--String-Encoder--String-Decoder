@@ -3,7 +3,8 @@ In this part, you have to design, implement and test a decoder for the system in
 Faculty of Engineering and Technology
 Electrical and Computer Engineering
 DSP Fall 2021
-Course project
+Course project  [document(20).pdf](https://github.com/QossayZeineddin/DSP--String-Encoder--String-Decoder/files/8430459/document.20.pdf)
+
 --------------------------------------------------------------------------------------------------------------------
 Project submission deadline: Sat. 8/1/2021 23:55 on ITC
 Project discussion: To be defind later
@@ -233,4 +234,6 @@ Project deliverables by each group:
 You can use any programming language you prefer for implementing your project. However, I highly recommend
 MATLAB, Octave, or Python because they have many useful functions.
 Abualsoud Hanani & Alhareth Zyoud
-Dec. 18 th 2021
+Dec. 18 th 2021[ibrahim_amr_qossay_bara_DSP.pdf](https://github.com/QossayZeineddin/DSP--String-Encoder--String-Decoder/files/8430461/ibrahim_amr_qossay_bara_DSP.pdf)
+
+report of project 
